@@ -25,6 +25,7 @@
             flex-direction: column;
 
             .title {
+                color: black;
                 font-size: 50px;
                 font-weight: 500;
             }
